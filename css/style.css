@@ -3,7 +3,6 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
 body {
     margin: 0 auto;
     line-height: 1.7em;
@@ -91,4 +90,7 @@ body .primary-button {
     text-align: center;
     padding: 1em;
     font-size: 80%;
+}
+.content{
+    text-align: center;
 }
